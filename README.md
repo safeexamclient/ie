@@ -1,2 +1,18 @@
-# ie
-Safeexamclient based on IE kernel
+## 产品说明
+
+#### 1. 产品简介
+安全考试客户端（Safe Exam Client）是一款运行于电脑桌面端的可执行程序，此版本为 Safe_Exam_Client_IE_1.0.8，解压即用，免安装，支持 WinXP及以上系统，兼容IE。可实现全屏锁定，避免考试时考生上网或查阅本地资料，常用于机房考试。
+
+#### 2. 使用说明
+使用时，先手工编辑Exam.ini，修改URL、NAME、LOCK、PASSWORD等参数，设置好考试网址、考试名称、是否锁屏（ON是锁屏）、退出密码（锁屏状态下双击左下方提示文字可退出，默认密码是123），最后双击Exam.exe运行即可。
+
+#### 3. 温馨提示
+此1.0版本仅兼容IE浏览器，建议考试前，请在正式考场机房环境里完整测试一遍，以确保无误。若您的考试系统不兼容IE，请下载2.0版本，即CEF版本，以Chromium为内核，兼容Chrome最新版本。
+
+#### 4. 软件更新
+github.com/safeexamclient
+
+#### 5. 技术支持
+www.safeexamclient.com
+
+祝您使用愉快！
